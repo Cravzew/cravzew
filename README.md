@@ -2,12 +2,11 @@
 <p>Рад приветствовать вас в моем GitHub профиле</p>
 <table>
   <tr>
-    <th><a href="[https://kamensky124.github.io/AkCV/](https://my-cv-kappa-five.vercel.app/)">MyCV</a></th>
     <th><a href="https://t.me/cravzew"><img src="https://img.icons8.com/color/1x/telegram-app"></img></a></th>
   </tr>
-  </table>
+</table>
 
-<h4>My skills</h4>
+<h4>Мои навыки</h4>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -55,8 +54,7 @@
       <p>—Перерабатывал и оптимизировал код</p>
 </td>
    </tr>
-
-    </table>
+</table>
     
 <p>Выбрал Frontend потому-что мне нравится бесконечное профессиональное развитие, получаю удовольствие от решения логических задач, создания и оживления веб-интерфейсов</p>
 <p>Javascript и его фреймворки привлекают меня своим широким применением в самых разных отраслях. Так что теперь я усердно изучаю его, решая ката на Codewars, чтобы наилучшим образом использовать свой накопленный опыт в бизнесе.</p>
